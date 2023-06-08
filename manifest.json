@@ -1,0 +1,27 @@
+{
+    "name":"swapnil",
+    "display":"standalone",
+    "icons": [
+        {
+            "src":"./asset/images/logo-48x48.png",
+            "sizes": "48x48"
+        },
+        {
+            "src":"./asset/images/logo-96x96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src":"./asset/images/logo-144x144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src":"./asset/images/logo-192x192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src":"./asset/images/logo-512x512.png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url":"/ecommerce"
+}
